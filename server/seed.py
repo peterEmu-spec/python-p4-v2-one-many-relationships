@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-# server/seed.py
 
 import datetime
 from app import app
